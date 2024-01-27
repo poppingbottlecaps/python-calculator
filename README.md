@@ -1,1 +1,1 @@
-A simple calculator in python allowsing operations such as: add, subtrack, multiply, divide.
+A simple calculator in python allowsing operations such as: add, subtract, multiply, divide.
